@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.exe
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.deps.json
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.runtimeconfig.json
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.dll
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\net6.0\ref\CheckPalindrome.dll
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\net6.0\CheckPalindrome.pdb
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.dll
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\ref\CheckPalindrome.dll
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.pdb
+C:\Users\Pavani\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\net6.0\CheckPalindrome.genruntimeconfig.cache
